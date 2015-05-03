@@ -1,3 +1,7 @@
+/* C++ Poker hand evaluator
+ *   Basic 5-card poker hand evaluator/ranking program  */
+
+
 #include <iostream>
 #include <stdlib.h>
 #include <string.h>
